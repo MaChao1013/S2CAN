@@ -1,2 +1,2 @@
 # S2CAN
-compressive hyperspectral imaging
+Dual-camera compressive hyperspectral imaging reconstruction based on multi-scale high-frequency enhanced spatial-spectral cross attention
